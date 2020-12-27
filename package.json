@@ -1,0 +1,26 @@
+{
+  "name": "snowpack-plugin-rescript",
+  "version": "0.0.0",
+  "description": "Snowpack plugin for ReScript",
+  "main": "index.js",
+  "author": "Vladislav Orlov <me@orlov-vo.ru>",
+  "repository": "github:orlov-vo/snowpack-plugin-rescript",
+  "license": "MIT",
+  "keywords": [
+    "snowpack",
+    "snowpack-plugin",
+    "rescript",
+    "reasonml",
+    "bucklescript"
+  ],
+  "peerDependencies": {
+    "bsb-platform": ">= 8"
+  },
+  "dependencies": {
+    "execa": "^5.0.0",
+    "npm-run-path": "^4.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
