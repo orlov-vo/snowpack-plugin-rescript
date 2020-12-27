@@ -1,6 +1,6 @@
 {
   "name": "snowpack-plugin-rescript",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Snowpack plugin for ReScript",
   "main": "index.js",
   "author": "Vladislav Orlov <me@orlov-vo.ru>",
