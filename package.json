@@ -14,7 +14,7 @@
     "bucklescript"
   ],
   "peerDependencies": {
-    "bsb-platform": ">= 8"
+    "bs-platform": ">= 8"
   },
   "dependencies": {
     "execa": "^5.0.0",
